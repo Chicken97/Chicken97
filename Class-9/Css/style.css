@@ -1,0 +1,33 @@
+.carousel-item img{
+    height:720px;
+}
+
+.carousel-caption h3{
+    color: red;
+}
+
+.card p{
+    text-align: justify;
+}
+
+footer ul li{
+    padding-top: 10px;
+    
+}
+
+footer ul li a{
+    text-decoration: none;
+    color:#fff;
+    
+}
+
+about-icon i{
+    font-size: 22px;
+    background: #d0d58f;
+    padding: 15px 17px;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    color: black;
+
+}
